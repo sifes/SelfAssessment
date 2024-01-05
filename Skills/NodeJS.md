@@ -1,46 +1,46 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 🎓 known
+  - Nonblocking I/O and slocking code 🎓 known
+  - Event loop: phases 🎓 known
+  - Event loop: microtasks and macrotasks 🎓 known
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) 
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
+  - node:module 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 🎓 known
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🎓 known
+  - Dependencies: package.json and package lock 🎓 known
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Isolation with modularity 🎓 known
+  - Dependency injection 👂 heard
+  - DI containers 👂 heard
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
+  - Node.js CLI 👂 heard
+  - Process-based permissions 👂 heard
+  - Graceful shutdown 👂 heard
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch 🖐️ used
 - Internal API
-  - Streams API
+  - Streams API 👂 heard
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Password hashing with node:crypto.scrypt 👂 heard
   - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
+  - File system API: sync and async  👂 heard
+  - Copy folder recursively 👂 heard
+  - Worker threads 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
@@ -56,18 +56,18 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - node:url vs new URL
-  - node:assert
+  - node:assert 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer
-  - Module node:zlib
+  - Blob, File, Buffer, node:buffer 👂 heard
+  - Module node:zlib 👂 heard
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Isolation between layer 👂 heard
+  - Multilayer approach 👂 heard
+  - Separation of concerns 👂 heard
+  - Inversion of control 👂 heard
+  - Dependency injection 👂 heard
+  - GRASP 👂 heard
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
@@ -94,11 +94,11 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
-  - Routing
+  - Routing 👂 heard
   - DoS
-  - DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -117,7 +117,7 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD
+  - CI/CD 👂 heard
   - Readable
   - Writable
   - Transform
@@ -136,18 +136,18 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🎓 known
+  - error.cause👂 heard
+  - error.code👂 heard
+  - error.message 🎓 known
+  - error.stack 🎓 known
   - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
+  - Error.captureStackTrace 🎓 known
+  - Uncaught exceptions 🎓 known
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks 🎓 known
   - Resource leaks
   - Data race
 - Integrations and bindings
