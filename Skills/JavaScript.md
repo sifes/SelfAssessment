@@ -1,85 +1,85 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🎓 known
-  - this 🎓 known
-  - arrow function 🎓 known
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
   - async function 👂 heard
-  - call 🎓 known
-  - bind 🎓 known
-  - apply 🎓 known
+  - call 🖐️ used
+  - bind 🖐️ used
+  - apply 🖐️ used
   - instanceof 👂 heard
-  - ...spread 🎓 known
-  - ...rest 🎓 known
-  - typeof 🎓 known
-  - destructuring 🎓 known
-  - generator 
-  - iterator 🎓 known
+  - ...spread 🖐️ used
+  - ...rest 🖐️ used
+  - typeof 🖐️ used
+  - destructuring 🖐️ used
+  - generator  👂 heard
+  - iterator 🖐️ used
   - async generator 
   - async iterator 
-  - chaining
+  - chaining 👂 heard
   - optional chaining
-  - IIFE
-  - global 👂 heard
+  - IIFE 👂 heard
+  - global 🖐️ used
   - globalThis 👂 heard
   - window 👂 heard
-  - getters and setters 👂 heard
-  - __proto__ 👂 heard
-  - prototype 👂 heard
-  - equality operators 🎓 known
-  - logical operators 🎓 known
-  - bitwise operators 👂 heard
-  - ternary operator 🎓 known
-  - void 
-  - yield 
-  - await 👂 heard
+  - getters and setters 🎓 known
+  - __proto__ 🎓 known
+  - prototype 🎓 known
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void  👂 heard
+  - yield  👂 heard
+  - await 🖐️ used
   - template literal 
-  - strict mode 👂 heard
-  - delete 👂 heard
-  - in 
-  - super 
-  - Symbol 👂 heard
+  - strict mode 🖐️ used
+  - delete 🎓 known
+  - in 👂 heard 
+  - super 🎓 known 
+  - Symbol 🎓 known
   - Reflect 
 - Statements
-  - if 🎓 known
-  - while 🎓 known
-  - do..while 🎓 known
-  - for 🎓 known
-  - for..in 🎓 known
-  - for..of 🎓 known
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await 👂 heard
-  - throw 🎓 known
-  - break 🎓 known
-  - continue 🎓 known
-  - import 🎓 known
-  - export 🎓 known
-  - label 🎓 known
-  - try..catch 🎓 known
-  - switch 🎓 known
-  - class 🎓 known
-  - new Error 🎓 known
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
+  - label 🖐️ used
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
+  - new Error 🖐️ used
   - with 👂 heard
 - Functions
-  - function declaration 🎓 known
-  - function expression 🎓 known
-  - return 🎓 known
-  - default parameters 🎓 known
-  - functional object 🎓 known
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
 - Data structures 
-  - Array 🎓 known
+  - Array 🖐️ used
   - mixin 👂 heard
-  - extend 🎓 known
+  - extend 🖐️ used
   - typed arrays 👂 heard
-  - Map 🎓 known
-  - Set 🎓 known
-  - undefined 🎓 known
-  - null 🎓 known
+  - Map 🖐️ used
+  - Set 🖐️ used
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy 👂 heard
   - weak collections 👂 heard
   - timers 👂 heard
   - EventEmitter 👂 heard
-  - RegExp 🎓 known
-  - Date 🎓 known
+  - RegExp 🖐️ used
+  - Date 🖐️ used
   - BigInt 🎓 known
 - Infrastructure
   - V8 👂 heard
