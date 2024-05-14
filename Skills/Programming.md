@@ -17,24 +17,24 @@
   - event 🖐️ used
   - type 🖐️ used
   - primitive types 🖐️ used
-  - reference types  🖐️ used
-  - flag  🖐️ used
-  - lexical scope  🖐️ used
-  - code block  🖐️ used
-  - conditions  🖐️ used
-  - loops  🖐️ used
-  - assignment  🖐️ used
-  - regular expression  🖐️ used
-  - interface👂 heard
-  - contract👂 heard
-  - module👂 heard
+  - reference types 🖐️ used
+  - flag 🖐️ used
+  - lexical scope 🖐️ used
+  - code block 🖐️ used
+  - conditions 🖐️ used
+  - loops 🖐️ used
+  - assignment 🖐️ used
+  - regular expression 🖐️ used
+  - interface 🖐️ used
+  - contract 👂 heard
+  - module 🖐️ used
   - call stack 👂 heard
 - Functions
-  - signature
+  - signature 👂 heard
   - argument 🖐️ used
   - parameter 🖐️ used
   - pure function 🖐️ used
-  - lambda expression
+  - lambda expression 👂 heard
   - side effects 🖐️ used
   - closure 🖐️ used
   - partial application
@@ -44,63 +44,63 @@
   - callback 🖐️ used
   - listener 🖐️ used
   - compose
-  - pipe
+  - pipe 🎓 known
   - memoize 🖐️ used
   - wrapper 🖐️ used
-  - functor 
+  - functor
   - monad
   - monoid
-  - generator
+  - generator 🎓 known
   - coroutine
 - Data structures
   - array 🖐️ used
   - structure
   - record
-  - enum 🖐️ used 
-  - instance 
+  - enum 🖐️ used
+  - instance 🎓 known
   - object 🖐️ used
   - class 🖐️ used
-  - collection
+  - collection 🎓 known
   - set 🖐️ used
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
+  - hash table 🎓 known
+  - linked list 🎓 known
+  - doubly list 🎓 known
+  - unrolled list 🎓 known
+  - circular list 🎓 known
   - queue 🎓 known
   - stack 🎓 known
-  - deque
+  - deque 🎓 known
   - tree 👂 heard
   - graph 👂 heard
   - iterator 👂 heard
   - mutable state 👂 heard
   - immutable state 👂 heard
   - serialization
-  - string parsing
+  - string parsing 🎓 known
 - Process & style
-  - compiler 👂 heard
-  - transpiler 👂 heard
-  - linter 👂 heard
-  - polyfill 👂 heard
-  - debugger 👂 heard
-  - garbage collection 👂 heard
-  - refactoring 👂 heard
-  - code review 👂 heard
-  - antipatterns
+  - compiler 🎓 known
+  - transpiler 🎓 known
+  - linter 🎓 known
+  - polyfill 🎓 known
+  - debugger 🎓 known
+  - garbage collection 🎓 known
+  - refactoring 🎓 known
+  - code review 🎓 known
+  - antipatterns 🎓 known
   - paradigm 👂 heard
   - algorithm 👂 heard
   - magic numbers
-  - hardcode 👂 heard
-  - complexity 👂 heard
-  - decomposition 👂 heard
-  - spaghetti 👂 heard
+  - hardcode 🎓 known
+  - complexity 🎓 known
+  - decomposition 🎓 known
+  - spaghetti 🎓 known
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code 👂 heard
-  - duplicate code 👂 heard
-  - exception 👂 heard
-  - return early 👂 heard
-  - unittest
+  - dead code 🎓 known
+  - unreachable code 🎓 known
+  - duplicate code 🎓 known
+  - exception 🎓 known
+  - return early 🎓 known
+  - unittest 🎓 known
   - git 🖐️ used
-  - github  🖐️ used
+  - github 🖐️ used

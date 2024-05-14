@@ -6,10 +6,10 @@
   - Nonblocking I/O and slocking code 🎓 known
   - Event loop: phases 🎓 known
   - Event loop: microtasks and macrotasks 🎓 known
-  - Garbage collection
+  - Garbage collection 🎓 known
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time) 
+  - I/O-bound, CPU-bound, memory-bound tasks 🎓 known
+  - Interactive applications (close to real-time) 🎓 known
 - Modularity, layers and dependencies
   - CommonJS modules 🖐️ used
   - ECMAScript modules 🖐️ used
@@ -23,25 +23,25 @@
   - Isolation with modularity 🎓 known
   - Dependency injection 👂 heard
   - DI containers 👂 heard
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion 👂 heard
+  - Framework agnostic approach 👂 heard
 - Environment
   - Command line arguments
   - Node.js CLI 👂 heard
   - Process-based permissions 👂 heard
   - Graceful shutdown 👂 heard
-  - Clustering
+  - Clustering 👂 heard
   - Watch filesystem changes with --watch 🖐️ used
 - Internal API
   - Streams API 👂 heard
   - Web Streams API
-  - Crypto API
+  - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt 👂 heard
-  - Web Crypto API
-  - File system API: sync and async  👂 heard
+  - Web Crypto API 👂 heard
+  - File system API: sync and async 👂 heard
   - Copy folder recursively 👂 heard
   - Worker threads 👂 heard
-  - Performance hooks
+  - Performance hooks 👂 heard
   - Native fetch and nodejs/undici
   - node:async_hooks
   - AsyncLocalStorage
@@ -54,31 +54,31 @@
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID 🖐️ used
   - node:url vs new URL
   - node:assert 👂 heard
-  - Internationalization
+  - Internationalization 🖐️ used
   - Blob, File, Buffer, node:buffer 👂 heard
   - Module node:zlib 👂 heard
 - Application structure and architecture
   - Isolation between layer 👂 heard
   - Multilayer approach 👂 heard
-  - Separation of concerns 👂 heard
+  - Separation of concerns 🎓 known
   - Inversion of control 👂 heard
   - Dependency injection 👂 heard
   - GRASP 👂 heard
-  - SOLID 👂 heard
+  - SOLID 🎓 known
   - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
+  - Distributed systems 👂 heard
+  - Highload applications 👂 heard
+  - Clean architecture 👂 heard
   - DDD
-  - Message Queue
+  - Message Queue 🎓 known
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing
-  - Serverless clouds
+  - Load balancing 🎓 known
+  - Serverless clouds 👂 heard
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
@@ -87,10 +87,10 @@
   - IP sticky sessions
   - Endpoint throttling
   - HTTP(S) 🖐️ used
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
+  - TLS 🎓 known
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -102,36 +102,36 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS 🎓 known
+  - Fetch API 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
-  - keep-alive
+  - keep-alive 🖐️ used
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Logging 🖐️ used
+  - Application configuring 🖐️ used
+  - Testing 👂 heard
   - CI/CD 👂 heard
-  - Readable
-  - Writable
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 👂 heard
+  - Console 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 🎓 known
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer 👂 heard
+  - Repository 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -149,7 +149,7 @@
   - Flame graph
   - Memory leaks 🎓 known
   - Resource leaks
-  - Data race
+  - Data race 🎓 known
 - Integrations and bindings
   - Native addons
   - C and C++ addons
